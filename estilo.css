@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wrap h1{
+padding: 10px 20px;
+}
+header h1 nav ul li{
+    list-style: none;
+    display: inline-block;
+}
