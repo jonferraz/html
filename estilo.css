@@ -1,8 +1,17 @@
-a{
-color: red; 
-text-decoration: none; 
-font-size: 50px;
-}
-h1{
+body{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#wrap{width: 960px; 
+    margin: auto; 
+    background: #e3e3e3;
+}
+
+header h1{ 
+    padding: 10px;
+}
+header h1 nav ul li{
+    list-style: none;
+}
+
+    
