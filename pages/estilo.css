@@ -1,8 +1,8 @@
-body{
+body, html{
     font-family: helvetica, sans-serif;
-}
+} 
 a:link, a:visited{
-    color: black;
+    color:black;
     text-decoration: none;
 }
 a:hover{
@@ -10,54 +10,42 @@ a:hover{
 }
 #wrap{
     width: 960px;
-    margin: auto;
-    background: #e3e3e3;
-    padding: 10px 20px;
+    margin: 0px;
+    background: white;
+    background-image: url(img/Happy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0px 150px 600px; 
     overflow: hidden;
 }
-
- 
-
 header nav ul{
     list-style: none;
     padding-left: 0;
 }    
 header nav ul li{
 display: inline-block;
-margin-right: 10px;
-
- 
-
+margin-right: 70px;
 }
-
- 
-
 header nav ul li a{
     font-size: 18px;
-    
-
- 
-
 }
 #content{
     float: left;
     width: 660px;
-    
+    color: black;
+    padding-top: 100px;
+}
+article h2 li{
+    list-style: none;
 }
 #sidebar{
     float: right;
-    width: 300px;
-    
+    width: 300px; 
 }
-
- 
-
 #sidebar ul{
     list-style: none;
 }
-
- 
-
 footer{
     clear: both;
 }
