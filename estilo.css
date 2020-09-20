@@ -1,18 +1,19 @@
-<body{
+body, html{
     font-family: helvetica, sans-serif;
-}
+} 
 a:link, a:visited{
-    color: #ff6600;
+    color:black;
     text-decoration: none;
 }
 a:hover{
-    text-decoration: ;
+    text-decoration:none;
 }
 #wrap{
     width: 960px;
-    margin: auto;
-    background: #e3e3e3;
-    padding: 10px 20px;
+    margin: aut0px;
+    background: white;
+    background-image: url;
+    padding: 10px 20px 600px; 
     overflow: hidden;
 }
 
