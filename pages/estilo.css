@@ -1,12 +1,12 @@
-<body{
+body{
     font-family: helvetica, sans-serif;
 }
 a:link, a:visited{
-    color: #ff6600;
+    color: black;
     text-decoration: none;
 }
 a:hover{
-    text-decoration: ;
+    text-decoration:none;
 }
 #wrap{
     width: 960px;
