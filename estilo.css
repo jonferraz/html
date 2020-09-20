@@ -35,6 +35,8 @@ header nav ul li a{
     width: 660px;
     color: black;
     padding-top: 100px;
+    list-style: underline;
+    
 }
 article h2 li{
     list-style: none;
