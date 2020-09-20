@@ -37,23 +37,10 @@ header h2 p a{
     padding-top: 100px;
 }
 #Linha2{
-    float: left;
     width: 800px;
     color: black;
     padding: 30px 60px 30px 60px;
     display: inline-block;
 }
-#article h2 li{
-    list-style: none;
-}
-#sidebar{
-    float: right;
-    width: 300px; 
-}
-#sidebar ul{
-    list-style: none;
-}
-footer{
-    clear: both;
-}
+
 
