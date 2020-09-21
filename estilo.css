@@ -35,15 +35,14 @@ header nav ul li a{
     width: 660px;
     color: black;
     padding-top: 100px;
-    list-style: underline;
-    margin: auto;
-}
-section h3{
-    margin: 0px 0px 300px;
-    align-items: center;
-}
-article h2 li{
     list-style: none;
+    
+}
+article h2 button{
+    list-style: none;
+    padding: 100px 200px 150px;
+    margin: auto;
+    width: 600px;
 }
 #sidebar{
     float: right;
@@ -55,11 +54,23 @@ article h2 li{
 footer{
     clear: both;
 }
-#about-me-right{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    width: 80%;
-    height: 80%;
+#form {
+    width: 800px;
 }
 
+input, textarea {
+    margin-bottom: 50px;
+}
+
+.max-w {
+    width: 99%;
+}
+
+.max-w-2 {
+    width: 70%;
+}
+
+#w-2 {
+    display: flex;
+    justify-content: space-between;
+}
