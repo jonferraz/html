@@ -2,7 +2,7 @@ body, html{
     font-family: helvetica, sans-serif;
 } 
 a:link, a:visited{
-    color:black;
+    color:white;
     text-decoration: none;
 }
 a:hover{
@@ -12,7 +12,7 @@ a:hover{
     width: 960px;
     margin: 0px;
     background: white;
-    background-image:url(img/Happy.png);
+    background-image:url(img/Fundo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -33,7 +33,7 @@ header h2 p a{
 #formulario{
     float: left;
     width: 660px;
-    color: black;
+    color: white;
     padding-top: 100px;
 }
 #Linha2{
