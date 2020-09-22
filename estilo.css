@@ -15,7 +15,6 @@ a:hover{
     background-image: url(img/Fundo.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment;
     padding: 0px 150px 600px; 
     overflow: hidden;
 }
@@ -52,6 +51,4 @@ article h2 li{
 footer{
     clear: both;
 }
-#Linha2 h2 button li{
 
-}
